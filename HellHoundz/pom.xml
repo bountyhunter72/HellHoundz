@@ -20,14 +20,7 @@
 </dependency>
 </dependencies>
 
-<resources>
-<resource>
-<directory>src/</directory>
-<includes>
-<include>plugin.yml</include>
-</includes>
-</resource>
-</resources>
+
 
 
   <properties>
